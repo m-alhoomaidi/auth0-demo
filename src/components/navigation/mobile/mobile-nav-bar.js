@@ -48,7 +48,7 @@ export const MobileNavBar = () => {
 
   return (
     <div className="mobile-nav-bar__container">
-      <nav className="mobile-nav-bar">
+      {/* <nav className="mobile-nav-bar">
         <MobileNavBarBrand handleClick={closeMobileMenu} />
         <MobileMenuToggleButton
           icon={mobileMenuIcon}
@@ -61,7 +61,7 @@ export const MobileNavBar = () => {
             <MobileNavBarButtons />
           </div>
         )}
-      </nav>
+      </nav> */}
     </div>
   );
 };

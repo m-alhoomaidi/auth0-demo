@@ -8,8 +8,8 @@ export const NavBar = () => {
     <div className="nav-bar__container">
       <nav className="nav-bar">
         {/* <NavBarBrand /> */}
-        <NavBarTabs />
-        <NavBarButtons />
+        {/* <NavBarTabs /> */}
+        {/* <NavBarButtons /> */}
       </nav>
     </div>
   );
